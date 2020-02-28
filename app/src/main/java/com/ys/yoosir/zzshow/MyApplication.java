@@ -5,7 +5,6 @@ import android.content.Context;
 import android.support.v7.app.AppCompatDelegate;
 
 import com.socks.library.KLog;
-import com.ys.yoosir.zzshow.common.AppManager;
 import com.ys.yoosir.zzshow.di.component.AppComponent;
 import com.ys.yoosir.zzshow.di.component.DaggerAppComponent;
 import com.ys.yoosir.zzshow.di.module.AppModule;
